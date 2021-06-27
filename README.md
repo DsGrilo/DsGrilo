@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DsGrilo
 - 👀 I’m interested in become a devoloper 
 - 🌱 I’m currently learning Java,Git,PostGree SQL and others...
-- 📫 How to reach me via LinkedIn
+- 📫 You can reach me via LinkedIn
 
 <!---
 DsGrilo/DsGrilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
