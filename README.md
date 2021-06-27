@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DsGrilo
-- 👀 I’m interested in become devoloper 
+- 👀 I’m interested in become a devoloper 
 - 🌱 I’m currently learning Java,Git,PostGree SQL and others...
 - 📫 How to reach me via LinkedIn
 
