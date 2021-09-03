@@ -6,10 +6,10 @@
 
 - 🏆 My Git Stats
 
-![DsGrilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DsGrilo&show_icons=true&theme=radical)
+![DsGrilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DsGrilo&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DsGrilo&theme=tokyonight)
 
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScrpit](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 - 
 ![Angular Bade](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
