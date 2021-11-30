@@ -11,6 +11,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsGrilo&theme=tokyonight"/>
 </div>
 
+![Snake animation](https://github.com/DsGrilo/DsGrilo/blob/output/github-contribution-grid-snake.svg)
+
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScrpit](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
