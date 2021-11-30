@@ -9,9 +9,7 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DsGrilo&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsGrilo&theme=tokyonight"/>
-  </div>
-
-![Snake animation](https://github.com/DsGrilo/DsGrilo/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
