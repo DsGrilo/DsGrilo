@@ -1,8 +1,8 @@
 - ## Welcome !!
 - ##  I'm Daniel Grilo
-- 💻 I'm Back End Developer Student
+- 💻 I'm Back End Developer
 - 📚 I'm currently learning everything
-- 💻 I'm Working with JAVA 
+- 💻 I'm Working with JAVA, NodeJS 
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DsGrilo)](https://github.com/DsGrilo)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-grilo-812309193/)](https://www.linkedin.com/in/daniel-grilo-812309193) [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/channels/@DanielGrilo#0826)](https://discord.com/channels/@DanielGrilo#0826)
 
 - 🏆 My Git Stats
